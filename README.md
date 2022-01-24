@@ -27,8 +27,8 @@
 ------
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
-
+- [ ! [टेलीग्राम चैनल] (https://img.shields.io/badge/Telegram-Channel-brightgreen) ] (https://t.me/its_hellbot)
+मैं
 ------
 ## Deploy 🚀
 - [![Heroku](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
@@ -48,7 +48,7 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - Fork this repo and click on below button to get access of deploy page.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)https://github.com/Insanebaazz/HellBot
 
 ------
 ## Deploy on Railway
